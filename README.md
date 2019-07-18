@@ -6,6 +6,7 @@ A collection of tools, datasets and resources on Assamese computing. This list i
 </p>
 
 ### Word representations
- - [Assamese2Vec](https://github.com/hridaydutta123/Assamese2Vec) (Hridoy Sankar Dutta, Assamese2Vec)
+ - [Assamese2Vec](https://github.com/hridaydutta123/Assamese2Vec) - An open source project for modelling the Assamese Language.
+ - [word_embedding4assamese](https://github.com/KashyapKishore/word_embedding4assamese) - 100 dimension Word vector for Assamese Language using Gensim's implementation of Word2Vec.The corpus used is Assamese wiki dump.
  
  
